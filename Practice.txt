@@ -6,6 +6,8 @@ This is the modification 1. so it is v1
 
 This message has to be there entire repo.
 
+modification from eclipse 1st priority.
+
 This is the new version of the file v2.
 
 This is the final version of the file.
@@ -19,6 +21,8 @@ Committed only to the local repository.
 committed directly to master.
 
 updating file from master.
+
+modification from eclipse is 2nd priority.
 
 updating file from eclipse.
 
