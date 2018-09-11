@@ -6,7 +6,10 @@ This is the modification 1. so it is v1
 
 This message has to be there entire repo.
 
+
 modification from eclipse 1st priority.
+
+modification from web 2nd priority.
 
 This is the new version of the file v2.
 
@@ -22,7 +25,11 @@ committed directly to master.
 
 updating file from master.
 
+
+modification from web is 1st priority.
+
 modification from eclipse is 2nd priority.
+
 
 updating file from eclipse.
 
@@ -33,11 +40,12 @@ with out taking the update
 to check how many conflicts going to come...
 
 hello..
+
 how are you
+
 how are you doing
 
-these are from web git.
-
+These are from web git.
 
 
 Happy Learning...
