@@ -22,7 +22,7 @@ committed directly to master.
 
 updating file from master.
 
-modification from web 2nd priority.
+modification from web is 1st priority.
 
 updating file from eclipse.
 
